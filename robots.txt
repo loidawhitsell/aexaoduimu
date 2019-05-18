@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uvietohcu.wnagzihxa1n.vip/sitemap.xml
